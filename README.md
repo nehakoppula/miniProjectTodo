@@ -1,22 +1,4 @@
-In this project, let's build a **Simple Todos** app by applying the concepts we have learned till now.
-
-### Refer to the image below:
-
-<br/>
-<div style="text-align: center;">
-    <img src="https://assets.ccbp.in/frontend/content/react-js/simple-todos-output.gif" alt="simple todos output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
-</div>
-<br/>
-
-### Design Files
-
-<details>
-<summary>Click to view</summary>
-
-- [Extra Small (Size < 576px) and Small (Size >= 576px)](https://assets.ccbp.in/frontend/content/react-js/simple-todos-sm-output-v2.png)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://assets.ccbp.in/frontend/content/react-js/simple-todos-lg-output-v2.png)
-
-</details>
+In this project, let's build a **Simple Todos** app by certain concepts of ReactJS as of class components and state. We can build this app using component life cycle also but useState under React Hook and State Hook will make things easier.
 
 ### Set Up Instructions
 
@@ -26,6 +8,10 @@ In this project, let's build a **Simple Todos** app by applying the concepts we 
 - Download dependencies by running `npm install`
 - Start up the app using `npm start`
 </details>
+
+Certain dependecies missed can be downloaded using below commands:
+npm install uuid
+npm install react-icons
 
 ### Completion Instructions
 
